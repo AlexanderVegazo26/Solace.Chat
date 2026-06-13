@@ -1,11 +1,11 @@
-Updated: 2026-06-13
+
 
 <p align="center">
   <img src="https://via.placeholder.com/400x100?text=Solace" width="400" />
 </p>
 
 <h1 align="center">
-  The vibe coding AI chat tool for developers in flow
+  new branch
 </h1>
 
 <p align="center">
